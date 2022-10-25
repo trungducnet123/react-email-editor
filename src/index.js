@@ -1,4 +1,8 @@
 import React, { Component } from 'react';
+import ReactDOM from 'react-dom';
+
+import EmailEditor from 'react-email-editor'
+
 import { loadScript } from './loadScript';
 import pkg from '../package.json';
 

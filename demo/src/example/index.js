@@ -1,6 +1,8 @@
 import React, { useRef } from 'react';
 import styled from 'styled-components';
 
+import EmailEditor from 'react-email-editor'
+
 import EmailEditor from '../../../src';
 import sample from './sample.json';
 
